@@ -11,18 +11,13 @@ To get started with this project, you'll need to have Python 3 and the following
 - scikit-learn
 
 You can install these packages using pip:
-
+```
 pip install pandas numpy scikit-learn
-
-bash
-
-
+```
 Once you have these packages installed, you can run the model using the following command:
-
+```
 python house_price_prediction.py
-
-vbnet
-
+```
 
 ## Data
 
@@ -47,4 +42,4 @@ The mean squared error (MSE) of the model on the test data is XXXXX. This indica
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
